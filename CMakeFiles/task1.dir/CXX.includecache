@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.cpp
+task1-blockprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.hpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.hpp
+fstream
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+opencv2/imgproc/imgproc.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/imgproc/imgproc.hpp
+opencv2/core/core.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/highgui/highgui.hpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dctprocessor.cpp
+task1-dctprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dctprocessor.hpp
+cmath
+-
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dctprocessor.hpp
+task1-blockprocessor.cpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.cpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dwtprocessor.cpp
+task1-dwtprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dwtprocessor.hpp
+iomanip
+-
+cmath
+-
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dwtprocessor.hpp
+task1-blockprocessor.cpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.cpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-histogramprocessor.cpp
+task1-histogramprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-histogramprocessor.hpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-histogramprocessor.hpp
+task1-blockprocessor.cpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.cpp
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1.cpp
+fstream
+-
+iostream
+-
+algorithm
+-
+opencv2/imgproc/imgproc.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/imgproc/imgproc.hpp
+opencv2/core/core.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/highgui/highgui.hpp
+task1-blockprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-blockprocessor.hpp
+task1-dctprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dctprocessor.hpp
+task1-dwtprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-dwtprocessor.hpp
+task1-histogramprocessor.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/task1-histogramprocessor.hpp
+

@@ -1,0 +1,6 @@
+To setup CMake:
+- Make a directory called `build`
+- In the `build` directory, execute `cmake ..`
+
+To compile:
+- In the `build` directory, execute `cmake --build .`

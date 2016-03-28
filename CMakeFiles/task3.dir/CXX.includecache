@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/cse408phase3/task3.cpp
+fstream
+-
+iostream
+-
+algorithm
+-
+iomanip
+-
+limits
+-
+opencv2/imgproc/imgproc.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/imgproc/imgproc.hpp
+opencv2/core/core.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/Users/shrirang/Documents/openCV codes/cse408phase3/opencv2/highgui/highgui.hpp
+
